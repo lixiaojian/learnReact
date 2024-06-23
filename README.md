@@ -68,3 +68,21 @@ pnpm exec husky init
 ```shell
 pnpm add @commitlint/{config-conventional,cli} -D -w
 ```
+
+## 安装 rollup
+
+```shell
+pnpm add -D -w rollup
+```
+
+## 安装 rollup-plugin-typescript2
+
+```shell
+pnpm add -D -w rollup-plugin-typescript2
+```
+
+## 安装 @rollup/plugin-commonjs
+
+```shell
+pnpm add -D -w @rollup/plugin-commonjs
+```
